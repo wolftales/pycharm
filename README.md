@@ -1,3 +1,3 @@
-# pycharm
+# PyCharm
 
-Pycharm Projects & Tutorials from Hyperskill.org
+PyCharm Projects & Tutorials from Hyperskill.org
