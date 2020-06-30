@@ -235,6 +235,9 @@ files:
     if __name__ == '__main__':
         TicTacToeTest('tictactoe.tictactoe').run_tests()
   learner_created: false
+- name: tictactoe/tictactoe.py
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/82/stages/453/implement
 status: Unchecked
 record: -1
